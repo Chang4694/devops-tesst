@@ -1,2 +1,2 @@
-# devops-tesst
+# week1-devopstest
 CoRise Hands on 
